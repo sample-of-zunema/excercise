@@ -9,7 +9,7 @@
   width: 100%;
   background-image: url(img/mv.jpg);
   background-size: cover;
-  background-image: bottom;
+  background-position: bottom;
 }
 
 .headline {
